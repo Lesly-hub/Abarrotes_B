@@ -1,0 +1,3 @@
+mongosh "mongodb+srv://pedidos.dvadf.mongodb.net/abarrotesdb" --apiVersion 1 --username prueba
+
+mongodb+srv://prueba:prueba@pedidos.dvadf.mongodb.net/?retryWrites=true&w=majority
